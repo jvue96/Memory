@@ -10,7 +10,7 @@
     "@uppy/react": "^1.0.0",
     "aws-sdk": "^2.441.0",
     "axios": "^0.18.0",
-    "bcrypt": "^3.0.5",
+    "bcrypt": "^5.0.0",
     "bluebird": "^3.5.4",
     "cookie-session": "^2.0.0-beta.3",
     "dotenv": "^4.0.0",
